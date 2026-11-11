@@ -1,0 +1,11 @@
+{
+  "name": "varun-mayya-kata-skills",
+  "displayName": "Varun Mayya Kata Skills (unofficial)",
+  "version": "1.0.0",
+  "description": "Unofficial, paraphrased Agent Skills distilled from Varun Mayya's Kata talk series: venture bets, team coordination, briefs, hiring, risk, distribution, simplicity, projects, persuasion, brand worlds, and belief. Not affiliated with Varun Mayya.",
+  "author": {
+    "name": "Sheroy Cooper"
+  },
+  "license": "MIT",
+  "keywords": ["agent-skills", "varun-mayya", "kata", "decision-making", "startups", "hiring", "career"]
+}
